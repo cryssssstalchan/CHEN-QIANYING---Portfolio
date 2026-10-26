@@ -1,8 +1,10 @@
-# An Open Archive
+# Content Marketing Portfolio
 
-**一份可以慢慢展开的作品集。**
+**一份持续更新的内容营销作品集。**
 
-黑白、纸张、留白。从一台电脑开始，穿过便利贴展板，再把一张作品卡片放大成完整画廊。一个适合视觉设计、插画与创意实践的开源作品集模板，由 [KAKI](https://github.com/kakizzzzz) 制作。
+以内容策略、品牌叙事、社交媒体内容与跨文化传播为核心。保留黑白、纸张与留白构成的档案式交互体验；目前项目卡片为待替换占位内容，后续将逐步补充真实作品、项目背景、执行过程与可验证成果。
+
+本项目基于 [An Open Archive](https://github.com/kakizzzzz/open-archive-portfolio) 模板进行调整。
 
 **[打开演示 ↗](https://kakizzzzz.github.io/open-archive-portfolio/) · [MIT License](LICENSE)**
 
@@ -48,9 +50,9 @@ npm run preview
 
 `build` 已包含 TypeScript 检查，输出目录为 `dist/`。
 
-## 换成你的内容
+## 更新作品集内容
 
-先修改资料与作品，再调整视觉样式。所有个人资料和联系方式均为示例。
+个人介绍、服务方向、项目卡片与履历配置位于 `components/archive/content.ts`。当前内容营销项目卡片和部分联系信息是占位内容；请在发布前替换为真实资料。请勿把占位项目或未验证的指标描述为已完成成果。
 
 | 文件 | 修改内容 |
 | :--- | :--- |
