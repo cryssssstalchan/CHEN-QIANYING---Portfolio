@@ -32,6 +32,12 @@ https://github.com/user-attachments/assets/3344bb0f-10d2-4251-905b-c12c44fd2516
 
 支持手机、平板与桌面布局，并提供键盘操作及减少动态效果的适配。
 
+## Adding real case studies
+
+Use the [Content Marketing Case Study Intake Guide](docs/content-marketing-case-study-template.md) to organise each project. You can provide incomplete materials; the portfolio can be updated in stages. Include the original brief, your specific role, approved creative assets or live links, and verified analytics where available. Do not publish confidential information or invent results. When performance data is unavailable, document deliverables and learning instead.
+
+The current project cards are placeholders and should not be presented as completed client work. The site is English-first and retains the original monochrome archive style.
+
 ## 本地运行
 
 需要 **Node.js 22 或更新版本**。Fork 或下载仓库，在项目目录运行：
