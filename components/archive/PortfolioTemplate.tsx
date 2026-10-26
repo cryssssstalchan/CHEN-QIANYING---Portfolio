@@ -78,7 +78,7 @@ export default function PortfolioTemplate() {
   useEffect(() => {
     const title = document.title;
     const lang = document.documentElement.lang;
-    document.title = `${templateProfile.pageTitle} — Portfolio Template`;
+    document.title = templateProfile.pageTitle;
     document.documentElement.lang = 'en';
     document.body.classList.add('archive-page-open');
     return () => { document.title = title; document.documentElement.lang = lang; document.body.classList.remove('archive-page-open'); };
